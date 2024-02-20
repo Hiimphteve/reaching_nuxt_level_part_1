@@ -1,20 +1,12 @@
 # Reaching Nuxt Level
-Dies ist das Repository für den dazugehörigen Kurs namens "Reaching Nuxt Level".
-Ziel des Kurses ist es `Nuxt.js` zu lernen, und falls noch nicht bekannt Grundlagen in `Vue.js` und `Javascript` im Allgemeinen.
+## Teil 1 - Javascript
+Dies ist das Repository für den ersten Teil des Kurses "Reaching Nuxt Level".
+Ziel des Kurses ist es `Nuxt.js` zu lernen, und falls noch nicht bekannt Grundlagen in `Vue.js` und `Javascript`.
 
-Der Kurs ist in drei Teile unterteilt:
-- Javascript
-- Vue.js
-- Nuxt.js
-
-Jeder Teil besteht aus mehreren Modulen, und jedes Modul besteht aus mehreren Bausteinen (Lektionen, Projekte & Quizze).
+Der Kurs ist in 12 Module unterteilt, und jedes Modul besteht aus Lektionen, Projekten und Quizzes.
 
 Lektionen vermitteln Wissen mit einigen kleinen Übungen.
 
-Projekte bestehen aus ...
+Projekte bestehen aus einer Sammlung von Aufgaben, die aufeinander aufbauen, und eigenständig bearbeitet werden sollen.
 
-Quizze fragen ...
-
-Jeder Teil ist in diesem Kurs in einem separaten Branch. Die Commits folgen der folgenden Struktur:
-- P1-M1-L1 (Teil 1, Modul 1, Lektion 1)
-- P2-M3-Q2 (Teil 2, Modul 3, Quiz 2)
+Quizze fragen das vermittelte Wissen in Form eines kleinen Tests ab.
